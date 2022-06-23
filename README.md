@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willwebb256
 - 👀 I’m interested in hiking, surfing, snowboarding, music, pets, hanging out with friends and family
-- 🌱 I’m currently learning about Android Studio and KOTLIN
+- 🌱 I’m currently learning the MERN stack by attending V School 
 - 💞️ My areas of interest include but are not limited to: Crypto/Blockchain, Defense Tech, Fintech, Renewable Energy, Aerospace, Outdoors, etc. 
 - 📫 How to reach me: william.webb256@gmail.com 
 
