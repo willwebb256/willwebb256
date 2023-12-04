@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willwebb256
-- 👀 I’m interested in hiking, surfing, snowboarding, music, pets, hanging out with friends and family
-- 🌱 I’m currently learning the MERN stack by attending V School 
-- 💞️ My areas of interest include but are not limited to: Crypto/Blockchain, Defense Tech, Fintech, Renewable Energy, Aerospace, Outdoors, etc. 
+- 👀 I’m interested in all kinds of things, right now really focused on business intelligence and integration coaching.
+- 🌱 I’m currently learning how to build web apps on digital ocean.
+- 💞️ My areas of interest are industry agnostic, just enjoy solving problems and helping others. 
 - 📫 How to reach me: william.webb256@gmail.com 
 
 <!---
